@@ -1,32 +1,25 @@
 {
   "logs": [
     {
-      "message": "Changed network card in server 007",
+      "message": "screen bugs detect",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2019-05-31T15:46:10.179Z",
+      "tech": "John Doe",
+      "date": "2021-01-31T19:59:11.743Z",
       "id": 1
     },
     {
-      "id": 2,
-      "message": "Fixed hard drive on workstation 002",
+      "message": "fix wire issue",
+      "attention": true,
+      "tech": "Harry Ford",
+      "date": "2021-01-31T19:59:43.355Z",
+      "id": 2
+    },
+    {
+      "message": "power shutdown",
       "attention": false,
       "tech": "John Doe",
-      "date": "2019-05-31T16:18:04.245Z"
-    },
-    {
-      "message": "1122 wireless down",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
+      "date": "2021-01-31T20:00:42.189Z",
       "id": 3
-    },
-    {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
-      "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
     }
   ],
   "techs": [
